@@ -5,4 +5,8 @@ public class Git {
 				// TODO Auto-generated method stub
 
 			}
+             private void empB() {
+				System.out.println("hi");
+
+			}
 }
